@@ -7,8 +7,6 @@ const cw = document.getElementById("cw");
 const restartBtn = document.getElementById("restartBtn");
 const thirty = document.getElementById("thirty");
 const sixty = document.getElementById("sixty");
-const beg = document.getElementById("beg");
-const pro = document.getElementById("pro");
 
 var wordNo = 1;
 var wordsSubmitted = 0;
